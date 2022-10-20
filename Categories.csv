@@ -1,0 +1,91 @@
+Index,SubCategory,nbCompagnies,link,TopLevelCategory,MainCategory
+0,Car Accessories Store ,716,https://www.trustpilot.com/categories/car_accessories_store,auto_parts_wheels,Vehicles & Transport
+1,Auto Parts Store ,223,https://www.trustpilot.com/categories/auto_parts_store,auto_parts_wheels,Vehicles & Transport
+2,Car Service ,57,https://www.trustpilot.com/categories/car_service,auto_parts_wheels,Vehicles & Transport
+3,Auto Accessories Wholesaler ,43,https://www.trustpilot.com/categories/auto_accessories_wholesaler,auto_parts_wheels,Vehicles & Transport
+4,Car Detailing Service ,42,https://www.trustpilot.com/categories/car_detailing_service,auto_parts_wheels,Vehicles & Transport
+5,Auto Parts Manufacturer ,36,https://www.trustpilot.com/categories/auto_parts_manufacturer,auto_parts_wheels,Vehicles & Transport
+6,Tire Shop ,34,https://www.trustpilot.com/categories/tire_shop,auto_parts_wheels,Vehicles & Transport
+7,Car Equipment Accessories Store ,28,https://www.trustpilot.com/categories/car_equipment_accessories,auto_parts_wheels,Vehicles & Transport
+8,Used Auto Parts Store ,25,https://www.trustpilot.com/categories/used_auto_parts_store,auto_parts_wheels,Vehicles & Transport
+9,Auto Parts Market ,24,https://www.trustpilot.com/categories/auto_parts_market,auto_parts_wheels,Vehicles & Transport
+10,Car Dealer ,132,https://www.trustpilot.com/categories/car_dealer,cars_trucks,Vehicles & Transport
+11,Used Car Dealer ,60,https://www.trustpilot.com/categories/used_car_dealer,cars_trucks,Vehicles & Transport
+12,Trucking Company ,50,https://www.trustpilot.com/categories/trucking_company,cars_trucks,Vehicles & Transport
+13,Auto Broker ,40,https://www.trustpilot.com/categories/auto_broker,cars_trucks,Vehicles & Transport
+14,Auto Market ,35,https://www.trustpilot.com/categories/auto_market,cars_trucks,Vehicles & Transport
+15,Used Truck Dealer ,21,https://www.trustpilot.com/categories/used_truck_dealer,cars_trucks,Vehicles & Transport
+16,Auto Auction ,19,https://www.trustpilot.com/categories/auto_auction,cars_trucks,Vehicles & Transport
+17,Truck Accessories Store ,15,https://www.trustpilot.com/categories/truck_accessories_store,cars_trucks,Vehicles & Transport
+18,Truck Dealer ,13,https://www.trustpilot.com/categories/truck_dealer,cars_trucks,Vehicles & Transport
+19,Motor Vehicle Dealer ,10,https://www.trustpilot.com/categories/motor_vehicle_dealer,cars_trucks,Vehicles & Transport
+20,Transportation Service ,211,https://www.trustpilot.com/categories/transportation_service,taxis_public_transport,Vehicles & Transport
+21,Limousine Service ,105,https://www.trustpilot.com/categories/limousine_service,taxis_public_transport,Vehicles & Transport
+22,Taxi Service ,68,https://www.trustpilot.com/categories/taxi_service,taxis_public_transport,Vehicles & Transport
+23,Bus and Coach Company ,48,https://www.trustpilot.com/categories/bus_and_coach_company,taxis_public_transport,Vehicles & Transport
+24,Bus Charter ,28,https://www.trustpilot.com/categories/bus_charter,taxis_public_transport,Vehicles & Transport
+25,Minibus Taxi Service ,20,https://www.trustpilot.com/categories/minibus_taxi_service,taxis_public_transport,Vehicles & Transport
+26,Bus Company ,13,https://www.trustpilot.com/categories/bus_company,taxis_public_transport,Vehicles & Transport
+27,Handicapped Transportation Service ,7,https://www.trustpilot.com/categories/handicapped_transportation_service,taxis_public_transport,Vehicles & Transport
+28,Train Ticket Agency ,6,https://www.trustpilot.com/categories/train_ticket_agency,taxis_public_transport,Vehicles & Transport
+29,Transportation Escort Service ,6,https://www.trustpilot.com/categories/transportation_escort_service,taxis_public_transport,Vehicles & Transport
+30,Car Accessories Store ,716,https://www.trustpilot.com/categories/car_accessories_store,auto_parts_wheels,Money & Insurance
+31,Auto Parts Store ,223,https://www.trustpilot.com/categories/auto_parts_store,auto_parts_wheels,Money & Insurance
+32,Car Service ,57,https://www.trustpilot.com/categories/car_service,auto_parts_wheels,Money & Insurance
+33,Auto Accessories Wholesaler ,43,https://www.trustpilot.com/categories/auto_accessories_wholesaler,auto_parts_wheels,Money & Insurance
+34,Car Detailing Service ,42,https://www.trustpilot.com/categories/car_detailing_service,auto_parts_wheels,Money & Insurance
+35,Auto Parts Manufacturer ,36,https://www.trustpilot.com/categories/auto_parts_manufacturer,auto_parts_wheels,Money & Insurance
+36,Tire Shop ,34,https://www.trustpilot.com/categories/tire_shop,auto_parts_wheels,Money & Insurance
+37,Car Equipment Accessories Store ,28,https://www.trustpilot.com/categories/car_equipment_accessories,auto_parts_wheels,Money & Insurance
+38,Used Auto Parts Store ,25,https://www.trustpilot.com/categories/used_auto_parts_store,auto_parts_wheels,Money & Insurance
+39,Auto Parts Market ,24,https://www.trustpilot.com/categories/auto_parts_market,auto_parts_wheels,Money & Insurance
+40,Car Dealer ,132,https://www.trustpilot.com/categories/car_dealer,cars_trucks,Money & Insurance
+41,Used Car Dealer ,60,https://www.trustpilot.com/categories/used_car_dealer,cars_trucks,Money & Insurance
+42,Trucking Company ,50,https://www.trustpilot.com/categories/trucking_company,cars_trucks,Money & Insurance
+43,Auto Broker ,40,https://www.trustpilot.com/categories/auto_broker,cars_trucks,Money & Insurance
+44,Auto Market ,35,https://www.trustpilot.com/categories/auto_market,cars_trucks,Money & Insurance
+45,Used Truck Dealer ,21,https://www.trustpilot.com/categories/used_truck_dealer,cars_trucks,Money & Insurance
+46,Auto Auction ,19,https://www.trustpilot.com/categories/auto_auction,cars_trucks,Money & Insurance
+47,Truck Accessories Store ,15,https://www.trustpilot.com/categories/truck_accessories_store,cars_trucks,Money & Insurance
+48,Truck Dealer ,13,https://www.trustpilot.com/categories/truck_dealer,cars_trucks,Money & Insurance
+49,Motor Vehicle Dealer ,10,https://www.trustpilot.com/categories/motor_vehicle_dealer,cars_trucks,Money & Insurance
+50,Transportation Service ,211,https://www.trustpilot.com/categories/transportation_service,taxis_public_transport,Money & Insurance
+51,Limousine Service ,105,https://www.trustpilot.com/categories/limousine_service,taxis_public_transport,Money & Insurance
+52,Taxi Service ,68,https://www.trustpilot.com/categories/taxi_service,taxis_public_transport,Money & Insurance
+53,Bus and Coach Company ,48,https://www.trustpilot.com/categories/bus_and_coach_company,taxis_public_transport,Money & Insurance
+54,Bus Charter ,28,https://www.trustpilot.com/categories/bus_charter,taxis_public_transport,Money & Insurance
+55,Minibus Taxi Service ,20,https://www.trustpilot.com/categories/minibus_taxi_service,taxis_public_transport,Money & Insurance
+56,Bus Company ,13,https://www.trustpilot.com/categories/bus_company,taxis_public_transport,Money & Insurance
+57,Handicapped Transportation Service ,7,https://www.trustpilot.com/categories/handicapped_transportation_service,taxis_public_transport,Money & Insurance
+58,Train Ticket Agency ,6,https://www.trustpilot.com/categories/train_ticket_agency,taxis_public_transport,Money & Insurance
+59,Transportation Escort Service ,6,https://www.trustpilot.com/categories/transportation_escort_service,taxis_public_transport,Money & Insurance
+60,Car Accessories Store ,716,https://www.trustpilot.com/categories/car_accessories_store,auto_parts_wheels,Beauty & Well Being 
+61,Auto Parts Store ,223,https://www.trustpilot.com/categories/auto_parts_store,auto_parts_wheels,Beauty & Well Being 
+62,Car Service ,57,https://www.trustpilot.com/categories/car_service,auto_parts_wheels,Beauty & Well Being 
+63,Auto Accessories Wholesaler ,43,https://www.trustpilot.com/categories/auto_accessories_wholesaler,auto_parts_wheels,Beauty & Well Being 
+64,Car Detailing Service ,42,https://www.trustpilot.com/categories/car_detailing_service,auto_parts_wheels,Beauty & Well Being 
+65,Auto Parts Manufacturer ,36,https://www.trustpilot.com/categories/auto_parts_manufacturer,auto_parts_wheels,Beauty & Well Being 
+66,Tire Shop ,34,https://www.trustpilot.com/categories/tire_shop,auto_parts_wheels,Beauty & Well Being 
+67,Car Equipment Accessories Store ,28,https://www.trustpilot.com/categories/car_equipment_accessories,auto_parts_wheels,Beauty & Well Being 
+68,Used Auto Parts Store ,25,https://www.trustpilot.com/categories/used_auto_parts_store,auto_parts_wheels,Beauty & Well Being 
+69,Auto Parts Market ,24,https://www.trustpilot.com/categories/auto_parts_market,auto_parts_wheels,Beauty & Well Being 
+70,Car Dealer ,132,https://www.trustpilot.com/categories/car_dealer,cars_trucks,Beauty & Well Being 
+71,Used Car Dealer ,60,https://www.trustpilot.com/categories/used_car_dealer,cars_trucks,Beauty & Well Being 
+72,Trucking Company ,50,https://www.trustpilot.com/categories/trucking_company,cars_trucks,Beauty & Well Being 
+73,Auto Broker ,40,https://www.trustpilot.com/categories/auto_broker,cars_trucks,Beauty & Well Being 
+74,Auto Market ,35,https://www.trustpilot.com/categories/auto_market,cars_trucks,Beauty & Well Being 
+75,Used Truck Dealer ,21,https://www.trustpilot.com/categories/used_truck_dealer,cars_trucks,Beauty & Well Being 
+76,Auto Auction ,19,https://www.trustpilot.com/categories/auto_auction,cars_trucks,Beauty & Well Being 
+77,Truck Accessories Store ,15,https://www.trustpilot.com/categories/truck_accessories_store,cars_trucks,Beauty & Well Being 
+78,Truck Dealer ,13,https://www.trustpilot.com/categories/truck_dealer,cars_trucks,Beauty & Well Being 
+79,Motor Vehicle Dealer ,10,https://www.trustpilot.com/categories/motor_vehicle_dealer,cars_trucks,Beauty & Well Being 
+80,Transportation Service ,211,https://www.trustpilot.com/categories/transportation_service,taxis_public_transport,Beauty & Well Being 
+81,Limousine Service ,105,https://www.trustpilot.com/categories/limousine_service,taxis_public_transport,Beauty & Well Being 
+82,Taxi Service ,68,https://www.trustpilot.com/categories/taxi_service,taxis_public_transport,Beauty & Well Being 
+83,Bus and Coach Company ,48,https://www.trustpilot.com/categories/bus_and_coach_company,taxis_public_transport,Beauty & Well Being 
+84,Bus Charter ,28,https://www.trustpilot.com/categories/bus_charter,taxis_public_transport,Beauty & Well Being 
+85,Minibus Taxi Service ,20,https://www.trustpilot.com/categories/minibus_taxi_service,taxis_public_transport,Beauty & Well Being 
+86,Bus Company ,13,https://www.trustpilot.com/categories/bus_company,taxis_public_transport,Beauty & Well Being 
+87,Handicapped Transportation Service ,7,https://www.trustpilot.com/categories/handicapped_transportation_service,taxis_public_transport,Beauty & Well Being 
+88,Train Ticket Agency ,6,https://www.trustpilot.com/categories/train_ticket_agency,taxis_public_transport,Beauty & Well Being 
+89,Transportation Escort Service ,6,https://www.trustpilot.com/categories/transportation_escort_service,taxis_public_transport,Beauty & Well Being 
